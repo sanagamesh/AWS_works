@@ -1,0 +1,4 @@
+name location age dob
+raghu dvg 23 jan
+sangu dbg 20 feb
+call jja 23 ia
