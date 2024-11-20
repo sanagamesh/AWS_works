@@ -13,8 +13,8 @@ reverse_words() {
 # Test
 #
 
-echo "input the sentence: "
-read sentence
-#sentence="Hello world this is Bash"
+#echo "input the sentence: "
+#read sentence
+sentence="Hello world this is Bash"
 reverse_words "$sentence"
 
